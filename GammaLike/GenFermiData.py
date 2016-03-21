@@ -45,44 +45,56 @@ def GenDataScipt(tag, basepath, bin_edges, scriptname, phfile, scfile, evclass=3
     echo "Get a beer. This will take a while..."
 
     echo "running gtselect"
-    gtselect '''+str(phfile)+''' photons_merged_'''+str(tag)+'''.fits\
-        ra=INDEF dec=INDEF rad=INDEF tmin=INDEF tmax=INDEF\
-        zmax='''+str(zmax)+''' emin='''+str(emin)+''' emax='''+str(emax)+'''\
-        convtype='''+str(convtype)+''' evclass='''+str(evclass)+''' clobber=True\
-        evtype='''+str(evtype)+'''
+    gtselect '''+str(phfile)+''' photons_merged_'''+str(tag)+'''.fits\\
+        ra=INDEF dec=INDEF rad=INDEF tmin=INDEF tmax=INDEF\\
+        zmax='''+str(zmax)+''' emin='''+str(emin)+''' emax='''+str(emax)+'''\\
+        evclass='''+str(evclass)+''' clobber=True evtype='''+str(evtype)+'''
 
     echo "running gtmktime"
-    gtmktime scfile='''+str(scfile)+''' filter="'''+filter + '''"\
-        roicut=no evfile=photons_merged_'''+str(tag)+'''.fits outfile=photons_merged_cut_'''+str(tag)+'''.fits\
+    gtmktime scfile='''+str(scfile)+''' filter="'''+filter + '''"\\
+        roicut=no evfile=photons_merged_'''+str(tag)+'''.fits\\
+        outfile=photons_merged_cut_'''+str(tag)+'''.fits\\
         clobber=True
 
     rm photons_merged_'''+str(tag)+'''.fits
 
     echo "running gtltcube"
 
-    gtltcube evfile=photons_merged_cut_'''+str(tag)+'''.fits scfile='''+str(scfile)+'''\
-        outfile="cube_'''+str(tag)+'''.fits" dcostheta=0.1 binsz=1 zmin=0 zmax=180 clobber=True
+    gtltcube evfile=photons_merged_cut_'''+str(tag)+'''.fits\\
+        scfile='''+str(scfile)+'''\\
+        outfile="cube_'''+str(tag)+'''.fits"\\
+        dcostheta=0.1 binsz=1 zmin=0 zmax=180 clobber=True
 
     # make ebin file
     echo "running gtbindef"
-    gtbindef bintype=E binfile=bin_edges_'''+str(tag)+'''.dat outfile=ebins_'''+str(tag)+'''.fits energyunits=MeV\
-    clobber=True
+    gtbindef bintype=E binfile=bin_edges_'''+str(tag)+'''.dat\\
+         outfile=ebins_'''+str(tag)+'''.fits energyunits=MeV\\
+        clobber=True
 
     # make psf file
     echo "running gtpsf"
-    gtpsf expcube="cube_'''+str(tag)+'''.fits" outfile=gtpsf_'''+str(tag)+'''.fits irfs='''+str(irf).split('::')[0]+''' \
-    emin=20 emax=1e6 nenergies=50 clobber=True ra=0 dec=0 thetamax=10 ntheta=200 evtype='''+str(evtype)+'''
+    gtpsf expcube="cube_'''+str(tag)+'''.fits"\\
+        outfile=gtpsf_'''+str(tag)+'''.fits\\
+        irfs='''+str(irf).split('::')[0]+'''\\
+        emin=20 emax=1e6 nenergies=50 clobber=True\\
+        ra=0 dec=0 thetamax=10 ntheta=200 evtype='''+str(evtype)+'''
 
     echo "running gtbin"
-    gtbin evfile=photons_merged_cut_'''+str(tag)+'''.fits \
-        scfile='''+str(scfile)+''' outfile="gtbin_'''+str(tag)+'''.fits" algorithm=CCUBE nxpix=721 nypix=361\
-        ebinalg=FILE ebinfile=ebins_'''+str(tag)+'''.fits coordsys=GAL proj=CAR xref=0 yref=0 axisrot=0 binsz=0.5\
+    gtbin evfile=photons_merged_cut_'''+str(tag)+'''.fits \\
+        scfile='''+str(scfile)+'''\\
+        outfile="gtbin_'''+str(tag)+'''.fits"\\
+        algorithm=CCUBE nxpix=721 nypix=361\\
+        ebinalg=FILE ebinfile=ebins_'''+str(tag)+'''.fits\\
+        coordsys=GAL proj=CAR xref=0 yref=0 axisrot=0 binsz=0.5\\
         clobber=True
 
     echo "running gtexpcube2"
-    gtexpcube2 infile="cube_'''+str(tag)+'''.fits" cmap="gtbin_'''+str(tag)+'''.fits"\
-        coordsys=GAL outfile="gtexpcube2_'''+str(tag)+'''.fits"\
-        irf='''+str(irf).split('::')[0]+''' ebinfile=ebins_'''+str(tag)+'''.fits ebinalg=FILE clobber=True proj=CAR evtype='''+str(evtype)
+    gtexpcube2 infile="cube_'''+str(tag)+'''.fits"\\
+        cmap="gtbin_'''+str(tag)+'''.fits"\\
+        coordsys=GAL outfile="gtexpcube2_'''+str(tag)+'''.fits"\\
+        irf='''+str(irf).split('::')[0]+'''\\
+        ebinfile=ebins_'''+str(tag)+'''.fits\\
+        ebinalg=FILE clobber=True proj=CAR evtype='''+str(evtype)
 
     f = open(basepath + scriptname, 'wb')
     f.write(runstring)
