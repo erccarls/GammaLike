@@ -8,15 +8,15 @@ Full documentation is available at xxxxxxxxxxxxxxxx
 
 
 Features include:
--Fixed spectrum or bin-by-bin fitting in energy
--Built in support for a variety of gamma-ray structures such as the fermi bubbles or isotropic templates. 
--Fast point source generation tool
--Simple interfaces to galprop output files. 
--Multi-threading and GPU support in performance critical routines.
--Output models to HDF5 format. 
--Support for Arbitrary Masking and Pixel weights. 
--Can impose external uncertainties on components. 
--Generate dark matter templates including common DM profiles, translations, ellipticities. 
+- Fixed spectrum or bin-by-bin fitting in energy
+- Built in support for a variety of gamma-ray structures such as the fermi bubbles or isotropic templates. 
+- Fast point source generation tool
+- Simple interfaces to galprop output files. 
+- Multi-threading and GPU support in performance critical routines.
+- Output models to HDF5 format. 
+- Support for Arbitrary Masking and Pixel weights. 
+- Can impose external uncertainties on components. 
+- Generate dark matter templates including common DM profiles, translations, ellipticities. 
 
 This library was developed originally to study both global fits to Fermi-LAT data, and to study the GeV Galactic center excess [arxiv:xxxx.xxxxxx]
 
