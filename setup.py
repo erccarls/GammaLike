@@ -2,7 +2,8 @@ from distutils.core import setup
 
 setup(
     name = "GammaLike",
-    packages = ["numpy","scipy","h5py","pyfits","iminuit","healpy","cPickle","astropy"],
+    packages = ["GammaLike",]
+    install_requires = ["numpy","scipy","h5py","pyfits","iminuit","healpy","cPickle","astropy"],
     version = "1.0.0",
     description = "Gmma-ray Template Regression Toolkit",
     author = "Eric Carlson",
