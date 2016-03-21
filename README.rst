@@ -1,3 +1,5 @@
+.. -*- mode: rst -*-
+
 # GammaLike
 
 The GammaLike package is devoted to easing multi-linear template regression on gamma-ray data using a binned likelihood approach.  While this library was designed to analyse Fermi-LAT data, it is easily extensible to any analysis using healpix maps.  Many tutorials are provided in the `tutorials` folder. 
