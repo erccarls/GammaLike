@@ -18,5 +18,5 @@ Features include:
 - Can impose external uncertainties on components. 
 - Generate dark matter templates including common DM profiles, translations, ellipticities. 
 
-This library was developed originally to study both global fits to Fermi-LAT data, and to study the GeV Galactic center excess [arxiv:xxxx.xxxxxx]
+This library was developed originally to study both global fits to Fermi-LAT data, and to study the GeV Galactic center excess [arxiv:1603.06584]
 
