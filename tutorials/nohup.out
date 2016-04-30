@@ -168,3 +168,23 @@
 [I 11:26:46.517 NotebookApp] Kernel restarted: 283fcf32-4739-4934-be03-4d7289a36b4a
 /home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
   "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 11:27:42.495 NotebookApp] Saving file at /Starting a New Analysis.ipynb
+[I 11:28:58.599 NotebookApp] Kernel restarted: 283fcf32-4739-4934-be03-4d7289a36b4a
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 11:29:18.478 NotebookApp] Kernel restarted: 283fcf32-4739-4934-be03-4d7289a36b4a
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 11:29:42.498 NotebookApp] Saving file at /Starting a New Analysis.ipynb
+[I 11:30:39.613 NotebookApp] Kernel restarted: 283fcf32-4739-4934-be03-4d7289a36b4a
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 11:31:42.498 NotebookApp] Saving file at /Starting a New Analysis.ipynb
+[I 11:33:04.860 NotebookApp] Kernel restarted: 283fcf32-4739-4934-be03-4d7289a36b4a
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 11:33:42.478 NotebookApp] Saving file at /Starting a New Analysis.ipynb
+[I 11:33:44.638 NotebookApp] Kernel interrupted: 283fcf32-4739-4934-be03-4d7289a36b4a
+[I 11:33:48.428 NotebookApp] Kernel restarted: 283fcf32-4739-4934-be03-4d7289a36b4a
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)

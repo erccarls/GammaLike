@@ -68,10 +68,8 @@ def GenSourceMap(bin_edges, l_range=(-180, 180), b_range=(-90, 90),
         # -----------------------------------------------------------
         # First we determine the number of counts.
         # Retreive the spectrum and integrated spectrum functions
-        spectype = fgl_data['SpectrumType'][idx]
+        spectype = fgl_data['SpectrumType'][idx].strip()
         spec, integratedspec = Tools.GetSpec(spectype)
-
-        print spectype
 
         # Get the spectral parameters
         specindex = fgl_data['Spectral_Index'][idx]
