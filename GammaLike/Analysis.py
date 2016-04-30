@@ -414,8 +414,18 @@ class Analysis():
         # Open FGL and look up the source name.
         hdu = pyfits.open(self.fglpath)
         ext_name = hdu[1].data['Extended_Source_Name'][idx_fgl]
-        ext_idx = np.where(hdu[5].data['Source_Name']==ext_name)[0]
-        fname = hdu[5].data['Spatial_Filename'][ext_idx][0]
+        
+        # Find the index of the source in the extended source list
+        ext_idx = None
+        for i_src, source_name in enumerate(hdu[5].data['Source_Name']): 
+            if source_name.strip() == ext_name.strip():
+                ext_idx = i_src
+                break 
+        if ext_idx is None:
+            raise Exception('Extended Source', source name, 'not found in catalog...')
+            
+        fname = hdu[5].data['Spatial_Filename'][ext_idx]
+        
         # Open the file and remove erroneous header info.
         hdu_spatial = pyfits.open(self.templateDir+fname, mode='readonly')
         try:
