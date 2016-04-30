@@ -422,7 +422,7 @@ class Analysis():
                 ext_idx = i_src
                 break 
         if ext_idx is None:
-            raise Exception('Extended Source', source name, 'not found in catalog...')
+            raise Exception('Extended Source'+source_name+'not found in catalog...')
             
         fname = hdu[5].data['Spatial_Filename'][ext_idx]
         

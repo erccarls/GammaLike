@@ -71,6 +71,8 @@ def GenSourceMap(bin_edges, l_range=(-180, 180), b_range=(-90, 90),
         spectype = fgl_data['SpectrumType'][idx]
         spec, integratedspec = Tools.GetSpec(spectype)
 
+        print spectype
+
         # Get the spectral parameters
         specindex = fgl_data['Spectral_Index'][idx]
         beta = fgl_data['beta'][idx]
