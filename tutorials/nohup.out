@@ -188,3 +188,2021 @@
 [I 11:33:48.428 NotebookApp] Kernel restarted: 283fcf32-4739-4934-be03-4d7289a36b4a
 /home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
   "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 11:35:42.478 NotebookApp] Saving file at /Starting a New Analysis.ipynb
+[I 11:40:40.315 NotebookApp] Saving file at /Starting a New Analysis.ipynb
+[I 11:40:45.158 NotebookApp] Kernel started: 10527232-cf4c-4725-9207-fb3d7afdc2de
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 11:41:42.509 NotebookApp] Saving file at /Starting a New Analysis.ipynb
+[I 11:42:45.755 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 11:43:42.489 NotebookApp] Saving file at /Starting a New Analysis.ipynb
+[I 11:44:01.247 NotebookApp] Kernel restarted: 283fcf32-4739-4934-be03-4d7289a36b4a
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 11:45:42.490 NotebookApp] Saving file at /Starting a New Analysis.ipynb
+[C 12:03:06.372 NotebookApp] received signal 15, stopping
+[I 12:03:06.374 NotebookApp] Shutting down kernels
+[I 12:03:06.480 NotebookApp] Kernel shutdown: 10527232-cf4c-4725-9207-fb3d7afdc2de
+[I 12:03:06.681 NotebookApp] Kernel shutdown: 283fcf32-4739-4934-be03-4d7289a36b4a
+[I 12:12:36.054 NotebookApp] Writing notebook server cookie secret to /run/user/1000/jupyter/notebook_cookie_secret
+[I 12:12:36.148 NotebookApp] Serving notebooks from local directory: /data/GammaLike/tutorials
+[I 12:12:36.148 NotebookApp] 0 active kernels 
+[I 12:12:36.149 NotebookApp] The IPython Notebook is running at: https://[all ip addresses on your system]:10000/
+[I 12:12:36.149 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 12:13:28.915 NotebookApp] 302 GET / (24.6.90.144) 1.48ms
+[I 12:13:28.941 NotebookApp] 302 GET /tree (24.6.90.144) 2.56ms
+[I 12:13:31.716 NotebookApp] 302 POST /login?next=%2Ftree (24.6.90.144) 1.88ms
+[I 12:13:36.514 NotebookApp] Kernel started: 9e2fc170-d552-4648-aed1-61338eaae81f
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 12:13:40.135 NotebookApp] Kernel started: 807bb4be-f8bb-42db-8f6c-3f4025836d2a
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 12:15:40.710 NotebookApp] Saving file at /Starting a New Analysis.ipynb
+[I 12:20:35.942 NotebookApp] Creating new notebook in 
+[I 12:20:37.074 NotebookApp] Kernel started: 4d1aa1d1-4a9f-40dc-8e79-24efcd0b5d8a
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 12:22:37.702 NotebookApp] Saving file at /A Global Analysis.ipynb
+[I 12:23:36.547 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 12:25:24.697 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 12:27:36.533 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 12:29:36.526 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 12:30:09.668 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 12:31:36.527 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 12:32:43.209 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 12:35:36.536 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 12:37:36.538 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 12:39:36.536 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 12:39:40.743 NotebookApp] Saving file at /Starting a New Analysis.ipynb
+[I 12:41:36.542 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 12:42:40.678 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 12:43:36.533 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 12:43:50.736 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 12:45:36.538 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 12:47:36.558 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 12:49:36.540 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 12:50:11.545 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 12:50:13.320 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 12:51:18.166 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 12:53:14.917 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 12:53:36.536 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 12:53:40.729 NotebookApp] Saving file at /Starting a New Analysis.ipynb
+[I 12:55:36.705 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 12:55:49.828 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 12:57:19.414 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 12:57:36.535 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 12:57:46.504 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 12:58:01.706 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 12:59:36.539 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:00:43.538 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:01:16.489 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:01:41.670 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:02:05.590 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:03:36.551 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:04:56.362 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:05:36.552 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:07:36.543 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:09:36.547 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:10:42.955 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:10:55.774 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:11:36.549 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:12:52.149 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:12:57.955 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:13:36.551 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:13:59.498 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:14:18.387 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:15:36.548 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:17:36.541 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:19:36.543 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:19:57.648 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:21:00.184 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:21:16.795 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:21:36.557 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:22:35.230 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:23:37.492 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:25:37.128 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:27:37.120 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:29:37.131 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+======================================
+Elapsed Time: 0 sec Call: 50/2500 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-6.030845e+05 FROM MIGRAD  STATUS=VALID   50 CALLS
+EDM=1.121250e-07 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_0  2.223055e-01  7.538997e-02       
+  2 FermiDiffuse_0  1.122960e+00  4.759082e-03       
+  3 Isotropic_0  -3.542919e-01  5.879714e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 43/2500 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-4.765358e+05 FROM MIGRAD  STATUS=VALID   43 CALLS
+EDM=1.735330e-04 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_1  1.269709e-01  8.798891e-02       
+  2 FermiDiffuse_1  1.124590e+00  4.953048e-03       
+  3 Isotropic_1  -3.795965e-01  6.385963e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 45/2500 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-3.741751e+05 FROM MIGRAD  STATUS=VALID   45 CALLS
+EDM=2.592858e-07 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_2  1.996855e-01  9.611758e-02       
+  2 FermiDiffuse_2  1.088245e+00  5.064713e-03       
+  3 Isotropic_2  -3.712633e-01  6.875399e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 45/2500 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.863847e+05 FROM MIGRAD  STATUS=VALID   45 CALLS
+EDM=6.680782e-08 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_3  2.315388e-01  9.480473e-02       
+  2 FermiDiffuse_3  1.061665e+00  5.296543e-03       
+  3 Isotropic_3  -2.749689e-01  7.371986e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 46/2500 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.761835e+05 FROM MIGRAD  STATUS=VALID   46 CALLS
+EDM=1.268804e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_4  1.818669e-01  1.044002e-01       
+  2 FermiDiffuse_4  1.065721e+00  5.287451e-03       
+  3 Isotropic_4  -1.208345e-01  7.193376e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 45/2500 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.743282e+05 FROM MIGRAD  STATUS=VALID   45 CALLS
+EDM=5.196011e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_5  2.700828e-01  7.163862e-02       
+  2 FermiDiffuse_5  1.024957e+00  5.007639e-03       
+  3 Isotropic_5  -1.955617e-01  6.850675e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 45/2500 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.638043e+05 FROM MIGRAD  STATUS=VALID   45 CALLS
+EDM=7.620425e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_6  1.058087e-01  8.275168e-02       
+  2 FermiDiffuse_6  1.011230e+00  4.865948e-03       
+  3 Isotropic_6  -6.671788e-02  6.503947e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 45/2500 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.453104e+05 FROM MIGRAD  STATUS=VALID   45 CALLS
+EDM=5.217025e-07 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_7  1.652952e-01  6.717899e-02       
+  2 FermiDiffuse_7  9.992693e-01  4.876611e-03       
+  3 Isotropic_7  8.875466e-02  6.632462e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 45/2500 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.307376e+05 FROM MIGRAD  STATUS=VALID   45 CALLS
+EDM=1.653665e-07 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_8  1.581256e-01  6.980779e-02       
+  2 FermiDiffuse_8  9.701875e-01  4.734978e-03       
+  3 Isotropic_8  8.023737e-02  6.843250e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 46/2500 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.069413e+05 FROM MIGRAD  STATUS=VALID   46 CALLS
+EDM=2.411829e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_9  4.750856e-02  6.595927e-02       
+  2 FermiDiffuse_9  9.823789e-01  4.876749e-03       
+  3 Isotropic_9  1.641705e-01  7.100837e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 46/2500 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-1.891467e+05 FROM MIGRAD  STATUS=VALID   46 CALLS
+EDM=2.270552e-07 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_10  1.890106e-01  5.180308e-02       
+  2 FermiDiffuse_10  9.516245e-01  4.819958e-03       
+  3 Isotropic_10  2.808212e-01  7.573823e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 45/2500 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-1.554146e+05 FROM MIGRAD  STATUS=VALID   45 CALLS
+EDM=1.227816e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_11  1.493178e-01  4.926686e-02       
+  2 FermiDiffuse_11  9.839677e-01  5.189236e-03       
+  3 Isotropic_11  3.622731e-01  8.189684e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 39/2500 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-1.229466e+05 FROM MIGRAD  STATUS=VALID   39 CALLS
+EDM=2.303060e-03 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_12  8.410967e-02  5.163126e-02       
+  2 FermiDiffuse_12  9.465704e-01  5.250150e-03       
+  3 Isotropic_12  4.899186e-01  8.890604e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 39/2500 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-8.929314e+04 FROM MIGRAD  STATUS=VALID   39 CALLS
+EDM=1.643496e-04 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_13  1.749751e-01  4.720495e-02       
+  2 FermiDiffuse_13  9.420461e-01  5.602599e-03       
+  3 Isotropic_13  5.221100e-01  9.547654e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 43/2500 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-6.149508e+04 FROM MIGRAD  STATUS=VALID   43 CALLS
+EDM=1.194531e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_14  2.721860e-02  5.134867e-02       
+  2 FermiDiffuse_14  9.491225e-01  5.824749e-03       
+  3 Isotropic_14  4.885624e-01  9.164239e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 44/2500 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-3.348559e+04 FROM MIGRAD  STATUS=VALID   44 CALLS
+EDM=1.044246e-07 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_15  1.738561e-01  4.830452e-02       
+  2 FermiDiffuse_15  9.213787e-01  6.246910e-03       
+  3 Isotropic_15  7.492539e-01  9.168367e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 41/2500 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-1.093866e+04 FROM MIGRAD  STATUS=VALID   41 CALLS
+EDM=3.322421e-08 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_16  2.161966e-01  4.880478e-02       
+  2 FermiDiffuse_16  9.513062e-01  7.343219e-03       
+  3 Isotropic_16  8.933589e-01  1.061494e-01       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 39/2500 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=6.917620e+03 FROM MIGRAD  STATUS=VALID   39 CALLS
+EDM=6.173523e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_17  1.654713e-01  5.785185e-02       
+  2 FermiDiffuse_17  9.774026e-01  8.824561e-03       
+  3 Isotropic_17  1.135578e+00  1.246308e-01       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 39/2500 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=1.695523e+04 FROM MIGRAD  STATUS=VALID   39 CALLS
+EDM=9.847292e-07 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_18  -1.084356e-01  8.103404e-02       
+  2 FermiDiffuse_18  1.042547e+00  1.075815e-02       
+  3 Isotropic_18  1.313925e+00  1.297685e-01       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 37/2500 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=2.138144e+04 FROM MIGRAD  STATUS=VALID   37 CALLS
+EDM=1.510537e-04 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_19  -3.689542e-02  7.966765e-02       
+  2 FermiDiffuse_19  1.107296e+00  1.392225e-02       
+  3 Isotropic_19  1.464478e+00  1.172808e-01       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 37/2500 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=2.131187e+04 FROM MIGRAD  STATUS=VALID   37 CALLS
+EDM=7.149230e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_20  -6.531128e-01  1.642660e-01       
+  2 FermiDiffuse_20  1.234694e+00  1.844065e-02       
+  3 Isotropic_20  1.560516e+00  1.180219e-01       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 33/2500 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=1.732644e+04 FROM MIGRAD  STATUS=VALID   33 CALLS
+EDM=6.936737e-04 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_21  -2.336221e-01  1.514404e-01       
+  2 FermiDiffuse_21  1.278721e+00  2.631654e-02       
+  3 Isotropic_21  1.457621e+00  1.143248e-01       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 33/2500 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=1.097884e+04 FROM MIGRAD  STATUS=VALID   33 CALLS
+EDM=7.163742e-05 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_22  -3.776470e-01  2.086618e-01       
+  2 FermiDiffuse_22  1.384405e+00  3.956460e-02       
+  3 Isotropic_22  1.166737e+00  1.207523e-01       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 37/2500 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=4.415493e+03 FROM MIGRAD  STATUS=VALID   37 CALLS
+EDM=1.100188e-04 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_23  -4.806257e-01  4.801280e-01       
+  2 FermiDiffuse_23  1.396550e+00  7.298084e-02       
+  3 Isotropic_23  1.108204e+00  2.188342e-01       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-6.030841e+05 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=6.541104e-07 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_0  2.976954e-01  7.538997e-02  FIXED
+  2 FermiDiffuse_0  1.120776e+00  4.227975e-03       
+  3 Isotropic_0  -3.710218e-01  5.636085e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-6.030840e+05 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=4.432673e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_0  1.469155e-01  7.538997e-02  FIXED
+  2 FermiDiffuse_0  1.125157e+00  4.227926e-03       
+  3 Isotropic_0  -3.374892e-01  5.635089e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 21/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-6.030841e+05 FROM MIGRAD  STATUS=VALID   21 CALLS
+EDM=2.951637e-08 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_0  1.877482e-01  6.696490e-02       
+  2 FermiDiffuse_0  1.127719e+00  4.759082e-03  FIXED
+  3 Isotropic_0  -3.900134e-01  4.682639e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 20/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-6.030841e+05 FROM MIGRAD  STATUS=VALID   20 CALLS
+EDM=5.079553e-10 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_0  2.569432e-01  6.698693e-02       
+  2 FermiDiffuse_0  1.118201e+00  4.759082e-03  FIXED
+  3 Isotropic_0  -3.185117e-01  4.674950e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-6.030841e+05 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=3.104729e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_0  2.009366e-01  7.226072e-02       
+  2 FermiDiffuse_0  1.120075e+00  3.787050e-03       
+  3 Isotropic_0  -2.954947e-01  5.879714e-02  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 21/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-6.030841e+05 FROM MIGRAD  STATUS=VALID   21 CALLS
+EDM=3.769783e-08 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_0  2.437025e-01  7.245006e-02       
+  2 FermiDiffuse_0  1.125859e+00  3.786660e-03       
+  3 Isotropic_0  -4.130890e-01  5.879714e-02  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-4.765353e+05 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=5.184517e-07 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_1  2.149598e-01  8.798891e-02  FIXED
+  2 FermiDiffuse_1  1.122324e+00  4.369476e-03       
+  3 Isotropic_1  -3.968244e-01  6.173507e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-4.765353e+05 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=3.733505e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_1  3.898196e-02  8.798891e-02  FIXED
+  2 FermiDiffuse_1  1.127003e+00  4.370123e-03       
+  3 Isotropic_1  -3.641646e-01  6.172356e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 21/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-4.765353e+05 FROM MIGRAD  STATUS=VALID   21 CALLS
+EDM=2.394892e-08 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_1  8.543487e-02  7.758992e-02       
+  2 FermiDiffuse_1  1.129543e+00  4.953048e-03  FIXED
+  3 Isotropic_1  -4.186973e-01  5.062000e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 20/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-4.765352e+05 FROM MIGRAD  STATUS=VALID   20 CALLS
+EDM=5.092098e-10 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_1  1.683162e-01  7.762320e-02       
+  2 FermiDiffuse_1  1.119637e+00  4.953048e-03  FIXED
+  3 Isotropic_1  -3.405307e-01  5.057123e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-4.765353e+05 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=2.753980e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_1  1.034451e-01  8.505510e-02       
+  2 FermiDiffuse_1  1.121620e+00  3.925539e-03       
+  3 Isotropic_1  -3.157369e-01  6.385963e-02  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 21/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-4.765353e+05 FROM MIGRAD  STATUS=VALID   21 CALLS
+EDM=2.905113e-08 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_1  1.482002e-01  8.528899e-02       
+  2 FermiDiffuse_1  1.127682e+00  3.925730e-03       
+  3 Isotropic_1  -4.434561e-01  6.385963e-02  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-3.741746e+05 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=6.860270e-07 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_2  2.958031e-01  9.611758e-02  FIXED
+  2 FermiDiffuse_2  1.085802e+00  4.437392e-03       
+  3 Isotropic_2  -3.872493e-01  6.686020e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-3.741746e+05 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=2.997916e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_2  1.035679e-01  9.611758e-02  FIXED
+  2 FermiDiffuse_2  1.090702e+00  4.437184e-03       
+  3 Isotropic_2  -3.552619e-01  6.685066e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 20/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-3.741746e+05 FROM MIGRAD  STATUS=VALID   20 CALLS
+EDM=1.570879e-10 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_2  1.533780e-01  8.415863e-02       
+  2 FermiDiffuse_2  1.093310e+00  5.064713e-03  FIXED
+  3 Isotropic_2  -4.134055e-01  5.440880e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 20/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-3.741746e+05 FROM MIGRAD  STATUS=VALID   20 CALLS
+EDM=9.363814e-08 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_2  2.461157e-01  8.419363e-02       
+  2 FermiDiffuse_2  1.083180e+00  5.064713e-03  FIXED
+  3 Isotropic_2  -3.291052e-01  5.437982e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-3.741746e+05 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=2.830544e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_2  1.774897e-01  9.346667e-02       
+  2 FermiDiffuse_2  1.085144e+00  4.009293e-03       
+  3 Isotropic_2  -3.025093e-01  6.875399e-02  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 21/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-3.741746e+05 FROM MIGRAD  STATUS=VALID   21 CALLS
+EDM=2.039843e-08 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_2  2.219872e-01  9.368119e-02       
+  2 FermiDiffuse_2  1.091355e+00  4.007790e-03       
+  3 Isotropic_2  -4.400173e-01  6.875399e-02  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.863843e+05 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=7.889470e-07 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_3  3.263435e-01  9.480473e-02  FIXED
+  2 FermiDiffuse_3  1.059046e+00  4.605236e-03       
+  3 Isotropic_3  -2.911161e-01  7.191141e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.863843e+05 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=3.032720e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_3  1.367341e-01  9.480473e-02  FIXED
+  2 FermiDiffuse_3  1.064297e+00  4.604945e-03       
+  3 Isotropic_3  -2.587411e-01  7.190085e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 20/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.863843e+05 FROM MIGRAD  STATUS=VALID   20 CALLS
+EDM=2.081370e-10 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_3  1.846709e-01  8.237375e-02       
+  2 FermiDiffuse_3  1.066961e+00  5.296543e-03  FIXED
+  3 Isotropic_3  -3.196876e-01  5.863660e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 20/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.863843e+05 FROM MIGRAD  STATUS=VALID   20 CALLS
+EDM=6.240564e-08 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_3  2.784397e-01  8.240573e-02       
+  2 FermiDiffuse_3  1.056368e+00  5.296543e-03  FIXED
+  3 Isotropic_3  -2.301407e-01  5.862198e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.863843e+05 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=2.623774e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_3  2.108466e-01  9.247563e-02       
+  2 FermiDiffuse_3  1.058453e+00  4.215300e-03       
+  3 Isotropic_3  -2.012490e-01  7.371986e-02  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 21/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.863843e+05 FROM MIGRAD  STATUS=VALID   21 CALLS
+EDM=1.377884e-08 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_3  2.522872e-01  9.266765e-02       
+  2 FermiDiffuse_3  1.064889e+00  4.213225e-03       
+  3 Isotropic_3  -3.486887e-01  7.371986e-02  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.761830e+05 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=7.148365e-07 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_4  2.862671e-01  1.044002e-01  FIXED
+  2 FermiDiffuse_4  1.063037e+00  4.558597e-03       
+  3 Isotropic_4  -1.354848e-01  7.041057e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.761830e+05 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=2.533936e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_4  7.746669e-02  1.044002e-01  FIXED
+  2 FermiDiffuse_4  1.068415e+00  4.558244e-03       
+  3 Isotropic_4  -1.061487e-01  7.040136e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 20/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.761830e+05 FROM MIGRAD  STATUS=VALID   20 CALLS
+EDM=1.882823e-10 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_4  1.289754e-01  8.994164e-02       
+  2 FermiDiffuse_4  1.071008e+00  5.287451e-03  FIXED
+  3 Isotropic_4  -1.641310e-01  5.751031e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 20/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.761830e+05 FROM MIGRAD  STATUS=VALID   20 CALLS
+EDM=5.898304e-08 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_4  2.349291e-01  8.997644e-02       
+  2 FermiDiffuse_4  1.060433e+00  5.287451e-03  FIXED
+  3 Isotropic_4  -7.756548e-02  5.749993e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.761830e+05 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=2.439157e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_4  1.607949e-01  1.021865e-01       
+  2 FermiDiffuse_4  1.062538e+00  4.230171e-03       
+  3 Isotropic_4  -4.890076e-02  7.193376e-02  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.761830e+05 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=4.991823e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_4  2.033926e-01  1.021806e-01       
+  2 FermiDiffuse_4  1.068904e+00  4.228060e-03       
+  3 Isotropic_4  -1.927683e-01  7.193376e-02  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.743277e+05 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=1.220436e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_5  3.417214e-01  7.163862e-02  FIXED
+  2 FermiDiffuse_5  1.022309e+00  4.258987e-03       
+  3 Isotropic_5  -2.079939e-01  6.731789e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.743277e+05 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=3.620891e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_5  1.984442e-01  7.163862e-02  FIXED
+  2 FermiDiffuse_5  1.027596e+00  4.258345e-03       
+  3 Isotropic_5  -1.826871e-01  6.730894e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 20/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.743277e+05 FROM MIGRAD  STATUS=VALID   20 CALLS
+EDM=1.681842e-10 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_5  2.322747e-01  6.087637e-02       
+  2 FermiDiffuse_5  1.029964e+00  5.007639e-03  FIXED
+  3 Isotropic_5  -2.359832e-01  5.525548e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 20/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.743277e+05 FROM MIGRAD  STATUS=VALID   20 CALLS
+EDM=5.715228e-08 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_5  3.077872e-01  6.089887e-02       
+  2 FermiDiffuse_5  1.019949e+00  5.007639e-03  FIXED
+  3 Isotropic_5  -1.548765e-01  5.524847e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.743277e+05 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=2.282495e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_5  2.569908e-01  7.039308e-02       
+  2 FermiDiffuse_5  1.021991e+00  4.042124e-03       
+  3 Isotropic_5  -1.270549e-01  6.850675e-02  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.743277e+05 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=4.477782e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_5  2.834553e-01  7.038950e-02       
+  2 FermiDiffuse_5  1.027925e+00  4.040078e-03       
+  3 Isotropic_5  -2.640684e-01  6.850675e-02  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.638038e+05 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=1.114339e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_6  1.885604e-01  8.275168e-02  FIXED
+  2 FermiDiffuse_6  1.008558e+00  4.076050e-03       
+  3 Isotropic_6  -7.691841e-02  6.418248e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.638038e+05 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=2.903601e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_6  2.305700e-02  8.275168e-02  FIXED
+  2 FermiDiffuse_6  1.013895e+00  4.075210e-03       
+  3 Isotropic_6  -5.601234e-02  6.417547e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 20/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.638038e+05 FROM MIGRAD  STATUS=VALID   20 CALLS
+EDM=1.540987e-10 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_6  6.042440e-02  6.925171e-02       
+  2 FermiDiffuse_6  1.016096e+00  4.865948e-03  FIXED
+  3 Isotropic_6  -1.044067e-01  5.290587e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 20/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.638038e+05 FROM MIGRAD  STATUS=VALID   20 CALLS
+EDM=5.343081e-08 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_6  1.510403e-01  6.928038e-02       
+  2 FermiDiffuse_6  1.006364e+00  4.865948e-03  FIXED
+  3 Isotropic_6  -2.866870e-02  5.289871e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.638038e+05 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=2.114040e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_6  9.263574e-02  8.165866e-02       
+  2 FermiDiffuse_6  1.008397e+00  3.961532e-03       
+  3 Isotropic_6  -1.678414e-03  6.503947e-02  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.638038e+05 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=3.895919e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_6  1.192624e-01  8.165531e-02       
+  2 FermiDiffuse_6  1.014070e+00  3.959466e-03       
+  3 Isotropic_6  -1.317573e-01  6.503947e-02  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.453099e+05 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=1.390605e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_7  2.324742e-01  6.717899e-02  FIXED
+  2 FermiDiffuse_7  9.965229e-01  4.032873e-03       
+  3 Isotropic_7  7.895194e-02  6.557536e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.453099e+05 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=3.390609e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_7  9.811625e-02  6.717899e-02  FIXED
+  2 FermiDiffuse_7  1.002028e+00  4.031907e-03       
+  3 Isotropic_7  9.869365e-02  6.556887e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 20/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.453099e+05 FROM MIGRAD  STATUS=VALID   20 CALLS
+EDM=1.505079e-10 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_7  1.274274e-01  5.549936e-02       
+  2 FermiDiffuse_7  1.004146e+00  4.876611e-03  FIXED
+  3 Isotropic_7  5.107871e-02  5.455596e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 20/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.453099e+05 FROM MIGRAD  STATUS=VALID   20 CALLS
+EDM=4.598413e-08 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_7  2.031659e-01  5.552448e-02       
+  2 FermiDiffuse_7  9.943927e-01  4.876611e-03  FIXED
+  3 Isotropic_7  1.265721e-01  5.454748e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.453099e+05 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=1.830327e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_7  1.553564e-01  6.641747e-02       
+  2 FermiDiffuse_7  9.964949e-01  4.014748e-03       
+  3 Isotropic_7  1.550793e-01  6.632462e-02  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.453099e+05 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=3.287491e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_7  1.753671e-01  6.641519e-02       
+  2 FermiDiffuse_7  1.002053e+00  4.012689e-03       
+  3 Isotropic_7  2.243004e-02  6.632462e-02  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.307371e+05 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=1.393651e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_8  2.279334e-01  6.980779e-02  FIXED
+  2 FermiDiffuse_8  9.674484e-01  3.862109e-03       
+  3 Isotropic_8  7.129550e-02  6.783873e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.307371e+05 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=3.113668e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_8  8.831781e-02  6.980779e-02  FIXED
+  2 FermiDiffuse_8  9.729484e-01  3.861014e-03       
+  3 Isotropic_8  8.912042e-02  6.783344e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 20/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.307371e+05 FROM MIGRAD  STATUS=VALID   20 CALLS
+EDM=1.543485e-10 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_8  1.176493e-01  5.687621e-02       
+  2 FermiDiffuse_8  9.749225e-01  4.734978e-03  FIXED
+  3 Isotropic_8  4.187536e-02  5.666304e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 19/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.307371e+05 FROM MIGRAD  STATUS=VALID   19 CALLS
+EDM=3.982281e-10 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_8  1.986528e-01  5.690526e-02       
+  2 FermiDiffuse_8  9.654525e-01  4.734978e-03  FIXED
+  3 Isotropic_8  1.186715e-01  5.665207e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.307371e+05 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=1.658821e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_8  1.490409e-01  6.919929e-02       
+  2 FermiDiffuse_8  9.675338e-01  3.924089e-03       
+  3 Isotropic_8  1.486699e-01  6.843250e-02  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.307371e+05 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=2.815061e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_8  1.672431e-01  6.919751e-02       
+  2 FermiDiffuse_8  9.728553e-01  3.922072e-03       
+  3 Isotropic_8  1.180487e-02  6.843250e-02  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 12/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.069408e+05 FROM MIGRAD  STATUS=VALID   12 CALLS
+EDM=1.418446e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_9  1.134678e-01  6.595927e-02  FIXED
+  2 FermiDiffuse_9  9.794744e-01  3.920673e-03       
+  3 Isotropic_9  1.559634e-01  7.051116e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.069408e+05 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=3.201830e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_9  -1.845071e-02  6.595927e-02  FIXED
+  2 FermiDiffuse_9  9.852962e-01  3.919651e-03       
+  3 Isotropic_9  1.725791e-01  7.050444e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 20/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.069408e+05 FROM MIGRAD  STATUS=VALID   20 CALLS
+EDM=1.695757e-10 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_9  8.250614e-03  5.297036e-02       
+  2 FermiDiffuse_9  9.872556e-01  4.876749e-03  FIXED
+  3 Isotropic_9  1.252285e-01  5.935538e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 19/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.069408e+05 FROM MIGRAD  STATUS=VALID   19 CALLS
+EDM=4.024045e-10 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_9  8.691742e-02  5.300310e-02       
+  2 FermiDiffuse_9  9.775021e-01  4.876749e-03  FIXED
+  3 Isotropic_9  2.032231e-01  5.933998e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 12/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.069408e+05 FROM MIGRAD  STATUS=VALID   12 CALLS
+EDM=1.136921e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_9  3.996202e-02  6.549597e-02       
+  2 FermiDiffuse_9  9.796949e-01  4.079183e-03       
+  3 Isotropic_9  2.351788e-01  7.100837e-02  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-2.069408e+05 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=2.401065e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1       DM_9  5.540383e-02  6.549119e-02       
+  2 FermiDiffuse_9  9.850616e-01  4.077864e-03       
+  3 Isotropic_9  9.316208e-02  7.100837e-02  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 12/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-1.891462e+05 FROM MIGRAD  STATUS=VALID   12 CALLS
+EDM=1.849747e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_10  2.408136e-01  5.180308e-02  FIXED
+  2 FermiDiffuse_10  9.486877e-01  3.821015e-03       
+  3 Isotropic_10  2.739713e-01  7.541992e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-1.891462e+05 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=3.470647e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_10  1.372075e-01  5.180308e-02  FIXED
+  2 FermiDiffuse_10  9.545854e-01  3.819424e-03       
+  3 Isotropic_10  2.876566e-01  7.541547e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 20/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-1.891462e+05 FROM MIGRAD  STATUS=VALID   20 CALLS
+EDM=1.744070e-10 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_10  1.573637e-01  4.101473e-02       
+  2 FermiDiffuse_10  9.564444e-01  4.819958e-03  FIXED
+  3 Isotropic_10  2.394708e-01  6.342732e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 19/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-1.891462e+05 FROM MIGRAD  STATUS=VALID   19 CALLS
+EDM=3.798484e-10 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_10  2.206976e-01  4.104421e-02       
+  2 FermiDiffuse_10  9.468045e-01  4.819958e-03  FIXED
+  3 Isotropic_10  3.223032e-01  6.340522e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 12/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-1.891462e+05 FROM MIGRAD  STATUS=VALID   12 CALLS
+EDM=1.009809e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_10  1.843449e-01  5.158436e-02       
+  2 FermiDiffuse_10  9.489908e-01  4.039248e-03       
+  3 Isotropic_10  3.565595e-01  7.573823e-02  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-1.891462e+05 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=1.951529e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_10  1.936993e-01  5.158187e-02       
+  2 FermiDiffuse_10  9.542727e-01  4.037928e-03       
+  3 Isotropic_10  2.050830e-01  7.573823e-02  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 12/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-1.554141e+05 FROM MIGRAD  STATUS=VALID   12 CALLS
+EDM=2.181636e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_11  1.985846e-01  4.926686e-02  FIXED
+  2 FermiDiffuse_11  9.807235e-01  4.049842e-03       
+  3 Isotropic_11  3.561170e-01  8.165485e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-1.554141e+05 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=3.564616e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_11  1.000509e-01  4.926686e-02  FIXED
+  2 FermiDiffuse_11  9.872357e-01  4.047494e-03       
+  3 Isotropic_11  3.684967e-01  8.165130e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 19/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-1.554141e+05 FROM MIGRAD  STATUS=VALID   19 CALLS
+EDM=2.122455e-10 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_11  1.184074e-01  3.839363e-02       
+  2 FermiDiffuse_11  9.891570e-01  5.189236e-03  FIXED
+  3 Isotropic_11  3.185100e-01  6.915799e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 19/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-1.554141e+05 FROM MIGRAD  STATUS=VALID   19 CALLS
+EDM=4.103412e-10 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_11  1.801935e-01  3.842874e-02       
+  2 FermiDiffuse_11  9.787785e-01  5.189236e-03  FIXED
+  3 Isotropic_11  4.062964e-01  6.912428e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 12/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-1.554141e+05 FROM MIGRAD  STATUS=VALID   12 CALLS
+EDM=8.884457e-07 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_11  1.455647e-01  4.912017e-02       
+  2 FermiDiffuse_11  9.811909e-01  4.384846e-03       
+  3 Isotropic_11  4.441699e-01  8.189684e-02  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-1.554141e+05 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=1.608511e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_11  1.530035e-01  4.911845e-02       
+  2 FermiDiffuse_11  9.867650e-01  4.383365e-03       
+  3 Isotropic_11  2.803763e-01  8.189684e-02  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 12/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-1.229461e+05 FROM MIGRAD  STATUS=VALID   12 CALLS
+EDM=2.049447e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_12  1.357409e-01  5.163126e-02  FIXED
+  2 FermiDiffuse_12  9.434235e-01  4.042323e-03       
+  3 Isotropic_12  4.798166e-01  8.875696e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 12/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-1.229461e+05 FROM MIGRAD  STATUS=VALID   12 CALLS
+EDM=3.633957e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_12  3.247841e-02  5.163126e-02  FIXED
+  2 FermiDiffuse_12  9.501452e-01  4.040836e-03       
+  3 Isotropic_12  4.897382e-01  8.876880e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 17/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-1.229462e+05 FROM MIGRAD  STATUS=VALID   17 CALLS
+EDM=2.821315e-10 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_12  5.131233e-02  3.969576e-02       
+  2 FermiDiffuse_12  9.518205e-01  5.250150e-03  FIXED
+  3 Isotropic_12  4.405496e-01  7.528731e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 10/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-1.229461e+05 FROM MIGRAD  STATUS=VALID   10 CALLS
+EDM=1.959460e-09 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_12  4.896134e-02  3.969884e-02       
+  2 FermiDiffuse_12  9.521953e-01  5.250150e-03  FIXED
+  3 Isotropic_12  4.371799e-01  7.528955e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 17/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-1.229461e+05 FROM MIGRAD  STATUS=VALID   17 CALLS
+EDM=4.669645e-10 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_12  1.173806e-01  3.973816e-02       
+  2 FermiDiffuse_12  9.413202e-01  5.250150e-03  FIXED
+  3 Isotropic_12  5.351881e-01  7.523969e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 10/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-1.229461e+05 FROM MIGRAD  STATUS=VALID   10 CALLS
+EDM=6.033616e-09 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_12  1.156401e-01  3.975678e-02       
+  2 FermiDiffuse_12  9.415968e-01  5.250150e-03  FIXED
+  3 Isotropic_12  5.326879e-01  7.522396e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-1.229461e+05 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=8.501300e-07 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_12  7.930594e-02  5.154099e-02       
+  2 FermiDiffuse_12  9.439365e-01  4.448825e-03       
+  3 Isotropic_12  5.788246e-01  8.890604e-02  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-1.229461e+05 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=5.180749e-09 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_12  7.948964e-02  5.153938e-02       
+  2 FermiDiffuse_12  9.440678e-01  4.448355e-03       
+  3 Isotropic_12  5.744770e-01  8.890604e-02  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-1.229462e+05 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=1.587143e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_12  8.506575e-02  5.155018e-02       
+  2 FermiDiffuse_12  9.495362e-01  4.448167e-03       
+  3 Isotropic_12  4.010126e-01  8.890604e-02  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-1.229461e+05 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=6.021267e-09 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_12  8.517157e-02  5.155044e-02       
+  2 FermiDiffuse_12  9.497145e-01  4.449089e-03       
+  3 Isotropic_12  3.954261e-01  8.890604e-02  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 12/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-8.929263e+04 FROM MIGRAD  STATUS=VALID   12 CALLS
+EDM=2.756377e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_13  2.221800e-01  4.720495e-02  FIXED
+  2 FermiDiffuse_13  9.384180e-01  4.252090e-03       
+  3 Isotropic_13  5.176303e-01  9.540004e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 12/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-8.929266e+04 FROM MIGRAD  STATUS=VALID   12 CALLS
+EDM=3.656772e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_13  1.277701e-01  4.720495e-02  FIXED
+  2 FermiDiffuse_13  9.457376e-01  4.248351e-03       
+  3 Isotropic_13  5.250063e-01  9.540051e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 17/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-8.929266e+04 FROM MIGRAD  STATUS=VALID   17 CALLS
+EDM=3.606830e-10 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_13  1.438350e-01  3.576117e-02       
+  2 FermiDiffuse_13  9.476487e-01  5.602599e-03  FIXED
+  3 Isotropic_13  4.720832e-01  8.133680e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 17/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-8.929263e+04 FROM MIGRAD  STATUS=VALID   17 CALLS
+EDM=5.464025e-10 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_13  2.054762e-01  3.580934e-02       
+  2 FermiDiffuse_13  9.364435e-01  5.602599e-03  FIXED
+  3 Isotropic_13  5.721902e-01  8.126890e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-8.929263e+04 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=8.313588e-07 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_13  1.723972e-01  4.716439e-02       
+  2 FermiDiffuse_13  9.391621e-01  4.775709e-03       
+  3 Isotropic_13  6.175865e-01  9.547654e-02  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-8.929265e+04 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=1.126657e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_13  1.760375e-01  4.716800e-02       
+  2 FermiDiffuse_13  9.450475e-01  4.773704e-03       
+  3 Isotropic_13  4.266335e-01  9.547654e-02  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 12/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-6.149458e+04 FROM MIGRAD  STATUS=VALID   12 CALLS
+EDM=2.959298e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_14  7.856726e-02  5.134867e-02  FIXED
+  2 FermiDiffuse_14  9.451886e-01  4.291567e-03       
+  3 Isotropic_14  4.872733e-01  9.163123e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 12/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-6.149458e+04 FROM MIGRAD  STATUS=VALID   12 CALLS
+EDM=3.343155e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_14  -2.413007e-02  5.134867e-02  FIXED
+  2 FermiDiffuse_14  9.530887e-01  4.285914e-03       
+  3 Isotropic_14  4.899333e-01  9.163088e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 17/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-6.149458e+04 FROM MIGRAD  STATUS=VALID   17 CALLS
+EDM=4.291340e-10 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_14  -7.588381e-03  3.774816e-02       
+  2 FermiDiffuse_14  9.549472e-01  5.824749e-03  FIXED
+  3 Isotropic_14  4.434170e-01  7.970686e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 17/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-6.149458e+04 FROM MIGRAD  STATUS=VALID   17 CALLS
+EDM=5.712349e-10 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_14  6.203370e-02  3.782200e-02       
+  2 FermiDiffuse_14  9.432977e-01  5.824749e-03  FIXED
+  3 Isotropic_14  5.340077e-01  7.960605e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 12/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-6.149458e+04 FROM MIGRAD  STATUS=VALID   12 CALLS
+EDM=8.582969e-07 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_14  2.643542e-02  5.134148e-02       
+  2 FermiDiffuse_14  9.462482e-01  5.069045e-03       
+  3 Isotropic_14  5.802048e-01  9.164239e-02  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-6.149458e+04 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=7.737417e-07 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_14  2.793069e-02  5.134176e-02       
+  2 FermiDiffuse_14  9.520164e-01  5.065379e-03       
+  3 Isotropic_14  3.969200e-01  9.164239e-02  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 12/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-3.348510e+04 FROM MIGRAD  STATUS=VALID   12 CALLS
+EDM=3.435738e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_15  2.221607e-01  4.830452e-02  FIXED
+  2 FermiDiffuse_15  9.170607e-01  4.502014e-03       
+  3 Isotropic_15  7.490057e-01  9.168332e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 12/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-3.348509e+04 FROM MIGRAD  STATUS=VALID   12 CALLS
+EDM=3.675829e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_15  1.255516e-01  4.830452e-02  FIXED
+  2 FermiDiffuse_15  9.257446e-01  4.494523e-03       
+  3 Isotropic_15  7.493198e-01  9.168344e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 17/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-3.348510e+04 FROM MIGRAD  STATUS=VALID   17 CALLS
+EDM=5.396520e-10 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_15  1.403574e-01  3.472384e-02       
+  2 FermiDiffuse_15  9.276256e-01  6.246910e-03  FIXED
+  3 Isotropic_15  7.064243e-01  8.111174e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 17/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-3.348509e+04 FROM MIGRAD  STATUS=VALID   17 CALLS
+EDM=6.398103e-10 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_15  2.074923e-01  3.481041e-02       
+  2 FermiDiffuse_15  9.151318e-01  6.246910e-03  FIXED
+  3 Isotropic_15  7.921193e-01  8.097850e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-3.348509e+04 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=5.123750e-07 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_15  1.738007e-01  4.830439e-02       
+  2 FermiDiffuse_15  9.184591e-01  5.527532e-03       
+  3 Isotropic_15  8.409375e-01  9.168367e-02  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-3.348509e+04 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=5.294536e-07 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_15  1.739661e-01  4.830421e-02       
+  2 FermiDiffuse_15  9.243076e-01  5.524021e-03       
+  3 Isotropic_15  6.575702e-01  9.168367e-02  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 12/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-1.093817e+04 FROM MIGRAD  STATUS=VALID   12 CALLS
+EDM=4.214326e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_16  2.650013e-01  4.880478e-02  FIXED
+  2 FermiDiffuse_16  9.461907e-01  5.249309e-03       
+  3 Isotropic_16  8.943418e-01  1.061444e-01       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 12/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-1.093816e+04 FROM MIGRAD  STATUS=VALID   12 CALLS
+EDM=4.429488e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_16  1.673918e-01  4.880478e-02  FIXED
+  2 FermiDiffuse_16  9.564823e-01  5.239034e-03       
+  3 Isotropic_16  8.921551e-01  1.061445e-01       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 17/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-1.093816e+04 FROM MIGRAD  STATUS=VALID   17 CALLS
+EDM=8.657563e-10 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_16  1.820553e-01  3.479433e-02       
+  2 FermiDiffuse_16  9.586494e-01  7.343219e-03  FIXED
+  3 Isotropic_16  8.433870e-01  9.370355e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 17/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-1.093816e+04 FROM MIGRAD  STATUS=VALID   17 CALLS
+EDM=9.529309e-10 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_16  2.504455e-01  3.489295e-02       
+  2 FermiDiffuse_16  9.439629e-01  7.343219e-03  FIXED
+  3 Isotropic_16  9.434476e-01  9.352252e-02       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-1.093816e+04 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=3.924484e-07 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_16  2.166948e-01  4.880283e-02       
+  2 FermiDiffuse_16  9.478500e-01  6.481039e-03       
+  3 Isotropic_16  9.995083e-01  1.061494e-01  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=-1.093816e+04 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=3.959505e-07 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_16  2.156875e-01  4.880283e-02       
+  2 FermiDiffuse_16  9.547796e-01  6.476741e-03       
+  3 Isotropic_16  7.872095e-01  1.061494e-01  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 12/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=6.918119e+03 FROM MIGRAD  STATUS=VALID   12 CALLS
+EDM=4.922850e-06 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_17  2.233232e-01  5.785185e-02  FIXED
+  2 FermiDiffuse_17  9.712712e-01  6.324977e-03       
+  3 Isotropic_17  1.138324e+00  1.246060e-01       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 17/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=6.918120e+03 FROM MIGRAD  STATUS=VALID   17 CALLS
+EDM=7.562261e-11 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_17  1.076195e-01  5.785185e-02  FIXED
+  2 FermiDiffuse_17  9.835923e-01  6.317587e-03       
+  3 Isotropic_17  1.133115e+00  1.246038e-01       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 17/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=6.918118e+03 FROM MIGRAD  STATUS=VALID   17 CALLS
+EDM=1.581752e-09 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_17  1.250492e-01  4.134001e-02       
+  2 FermiDiffuse_17  9.862272e-01  8.824561e-03  FIXED
+  3 Isotropic_17  1.075111e+00  1.088603e-01       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 17/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=6.918121e+03 FROM MIGRAD  STATUS=VALID   17 CALLS
+EDM=1.723891e-09 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_17  2.059007e-01  4.147258e-02       
+  2 FermiDiffuse_17  9.685781e-01  8.824561e-03  FIXED
+  3 Isotropic_17  1.196901e+00  1.086120e-01       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=6.918117e+03 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=4.114068e-07 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_17  1.665781e-01  5.784066e-02       
+  2 FermiDiffuse_17  9.731131e-01  7.705172e-03       
+  3 Isotropic_17  1.260208e+00  1.246308e-01  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=6.918123e+03 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=4.121091e-07 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_17  1.641697e-01  5.784099e-02       
+  2 FermiDiffuse_17  9.817456e-01  7.699615e-03       
+  3 Isotropic_17  1.010947e+00  1.246308e-01  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 17/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=1.695572e+04 FROM MIGRAD  STATUS=VALID   17 CALLS
+EDM=8.860310e-11 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_18  -2.740155e-02  8.103404e-02  FIXED
+  2 FermiDiffuse_18  1.034879e+00  7.528136e-03       
+  3 Isotropic_18  1.317860e+00  1.297385e-01       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 17/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=1.695573e+04 FROM MIGRAD  STATUS=VALID   17 CALLS
+EDM=9.629339e-11 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_18  -1.894696e-01  8.103404e-02  FIXED
+  2 FermiDiffuse_18  1.050290e+00  7.523722e-03       
+  3 Isotropic_18  1.309803e+00  1.297102e-01       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 17/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=1.695572e+04 FROM MIGRAD  STATUS=VALID   17 CALLS
+EDM=2.723270e-09 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_18  -1.663256e-01  5.653280e-02       
+  2 FermiDiffuse_18  1.053305e+00  1.075815e-02  FIXED
+  3 Isotropic_18  1.253340e+00  1.148037e-01       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 17/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=1.695572e+04 FROM MIGRAD  STATUS=VALID   17 CALLS
+EDM=3.027595e-09 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_18  -5.032132e-02  5.677676e-02       
+  2 FermiDiffuse_18  1.031789e+00  1.075815e-02  FIXED
+  3 Isotropic_18  1.374903e+00  1.144697e-01       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=1.695572e+04 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=5.558787e-07 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_18  -1.060299e-01  8.100258e-02       
+  2 FermiDiffuse_18  1.037520e+00  9.515554e-03       
+  3 Isotropic_18  1.443693e+00  1.297685e-01  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=1.695573e+04 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=5.184424e-07 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_18  -1.109661e-01  8.100280e-02       
+  2 FermiDiffuse_18  1.047619e+00  9.508092e-03       
+  3 Isotropic_18  1.184156e+00  1.297685e-01  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 1 sec Call: 17/1000 (0.0588 sec/call).
+Est. time to maxcall: 57.82 sec.
+FCN=2.138195e+04 FROM MIGRAD  STATUS=VALID   17 CALLS
+EDM=2.145199e-10 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_19  4.277223e-02  7.966765e-02  FIXED
+  2 FermiDiffuse_19  1.097081e+00  9.445854e-03       
+  3 Isotropic_19  1.468645e+00  1.172437e-01       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 17/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=2.138192e+04 FROM MIGRAD  STATUS=VALID   17 CALLS
+EDM=2.366756e-10 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_19  -1.165631e-01  7.966765e-02  FIXED
+  2 FermiDiffuse_19  1.117600e+00  9.439381e-03       
+  3 Isotropic_19  1.460361e+00  1.172136e-01       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 17/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=2.138192e+04 FROM MIGRAD  STATUS=VALID   17 CALLS
+EDM=4.509072e-09 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_19  -9.606852e-02  5.384375e-02       
+  2 FermiDiffuse_19  1.121218e+00  1.392225e-02  FIXED
+  3 Isotropic_19  1.414344e+00  1.057972e-01       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 17/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=2.138195e+04 FROM MIGRAD  STATUS=VALID   17 CALLS
+EDM=5.027080e-09 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_19  2.125447e-02  5.414374e-02       
+  2 FermiDiffuse_19  1.093373e+00  1.392225e-02  FIXED
+  3 Isotropic_19  1.516254e+00  1.054283e-01       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=2.138194e+04 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=7.419532e-07 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_19  -3.552261e-02  7.962262e-02       
+  2 FermiDiffuse_19  1.101418e+00  1.255634e-02       
+  3 Isotropic_19  1.581758e+00  1.172808e-01  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=2.138194e+04 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=8.135403e-07 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_19  -4.102976e-02  7.964005e-02       
+  2 FermiDiffuse_19  1.113552e+00  1.254933e-02       
+  3 Isotropic_19  1.347197e+00  1.172808e-01  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 15/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=2.131236e+04 FROM MIGRAD  STATUS=VALID   15 CALLS
+EDM=1.053630e-10 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_20  -4.888468e-01  1.642660e-01  FIXED
+  2 FermiDiffuse_20  1.220638e+00  1.189607e-02       
+  3 Isotropic_20  1.563939e+00  1.180101e-01       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 17/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=2.131237e+04 FROM MIGRAD  STATUS=VALID   17 CALLS
+EDM=1.201407e-10 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_20  -8.173787e-01  1.642660e-01  FIXED
+  2 FermiDiffuse_20  1.248915e+00  1.188241e-02       
+  3 Isotropic_20  1.557403e+00  1.179820e-01       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 17/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=2.131237e+04 FROM MIGRAD  STATUS=VALID   17 CALLS
+EDM=8.185496e-09 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_20  -7.784569e-01  1.053741e-01       
+  2 FermiDiffuse_20  1.253135e+00  1.844065e-02  FIXED
+  3 Isotropic_20  1.518559e+00  1.103957e-01       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 17/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=2.131237e+04 FROM MIGRAD  STATUS=VALID   17 CALLS
+EDM=8.637067e-09 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_20  -5.266945e-01  1.062850e-01       
+  2 FermiDiffuse_20  1.216254e+00  1.844065e-02  FIXED
+  3 Isotropic_20  1.603165e+00  1.098771e-01       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=2.131237e+04 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=7.408551e-07 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_20  -6.485090e-01  1.642340e-01       
+  2 FermiDiffuse_20  1.228062e+00  1.724458e-02       
+  3 Isotropic_20  1.678538e+00  1.180219e-01  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=2.131237e+04 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=6.358105e-07 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_20  -6.573395e-01  1.642283e-01       
+  2 FermiDiffuse_20  1.241343e+00  1.722864e-02       
+  3 Isotropic_20  1.442494e+00  1.180219e-01  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 17/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=1.732689e+04 FROM MIGRAD  STATUS=VALID   17 CALLS
+EDM=4.742426e-10 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_21  -8.218171e-02  1.514404e-01  FIXED
+  2 FermiDiffuse_21  1.258160e+00  1.594085e-02       
+  3 Isotropic_21  1.458337e+00  1.143195e-01       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 17/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=1.732697e+04 FROM MIGRAD  STATUS=VALID   17 CALLS
+EDM=6.934118e-10 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_21  -3.850626e-01  1.514404e-01  FIXED
+  2 FermiDiffuse_21  1.300178e+00  1.592708e-02       
+  3 Isotropic_21  1.454017e+00  1.143083e-01       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 17/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=1.732695e+04 FROM MIGRAD  STATUS=VALID   17 CALLS
+EDM=2.022400e-08 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_21  -3.507848e-01  9.114769e-02       
+  2 FermiDiffuse_21  1.305038e+00  2.631654e-02  FIXED
+  3 Isotropic_21  1.423582e+00  1.097944e-01       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 17/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=1.732692e+04 FROM MIGRAD  STATUS=VALID   17 CALLS
+EDM=1.932099e-08 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_21  -1.089679e-01  9.217521e-02       
+  2 FermiDiffuse_21  1.252405e+00  2.631654e-02  FIXED
+  3 Isotropic_21  1.488440e+00  1.092958e-01       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=1.732695e+04 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=8.999024e-07 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_21  -2.258771e-01  1.515252e-01       
+  2 FermiDiffuse_21  1.270744e+00  2.530065e-02       
+  3 Isotropic_21  1.571946e+00  1.143248e-01  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=1.732693e+04 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=3.633800e-07 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_21  -2.313553e-01  1.513970e-01       
+  2 FermiDiffuse_21  1.285776e+00  2.523729e-02       
+  3 Isotropic_21  1.343296e+00  1.143248e-01  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 17/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=1.097931e+04 FROM MIGRAD  STATUS=VALID   17 CALLS
+EDM=4.789001e-10 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_22  -1.689852e-01  2.086618e-01  FIXED
+  2 FermiDiffuse_22  1.353076e+00  2.376037e-02       
+  3 Isotropic_22  1.168117e+00  1.207551e-01       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 17/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=1.097935e+04 FROM MIGRAD  STATUS=VALID   17 CALLS
+EDM=8.534748e-10 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_22  -5.863089e-01  2.086618e-01  FIXED
+  2 FermiDiffuse_22  1.416588e+00  2.372663e-02       
+  3 Isotropic_22  1.165213e+00  1.207455e-01       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 17/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=1.097934e+04 FROM MIGRAD  STATUS=VALID   17 CALLS
+EDM=2.950367e-08 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_22  -5.425060e-01  1.240470e-01       
+  2 FermiDiffuse_22  1.423969e+00  3.956460e-02  FIXED
+  3 Isotropic_22  1.140331e+00  1.182026e-01       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 17/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=1.097933e+04 FROM MIGRAD  STATUS=VALID   17 CALLS
+EDM=3.019025e-08 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_22  -2.076296e-01  1.262626e-01       
+  2 FermiDiffuse_22  1.344840e+00  3.956460e-02  FIXED
+  3 Isotropic_22  1.193230e+00  1.173256e-01       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=1.097933e+04 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=5.305024e-07 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_22  -3.728721e-01  2.087366e-01       
+  2 FermiDiffuse_22  1.375394e+00  3.870638e-02       
+  3 Isotropic_22  1.287489e+00  1.207523e-01  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=1.097934e+04 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=3.136953e-07 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_22  -3.775729e-01  2.086320e-01       
+  2 FermiDiffuse_22  1.392860e+00  3.863216e-02       
+  3 Isotropic_22  1.045984e+00  1.207523e-01  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 12/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=4.415960e+03 FROM MIGRAD  STATUS=VALID   12 CALLS
+EDM=2.058151e-11 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_23  -4.977514e-04  4.801280e-01  FIXED
+  2 FermiDiffuse_23  1.338048e+00  4.241614e-02       
+  3 Isotropic_23  1.105922e+00  2.188273e-01       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 12/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=4.416016e+03 FROM MIGRAD  STATUS=VALID   12 CALLS
+EDM=4.810367e-08 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_23  -9.607537e-01  4.801280e-01  FIXED
+  2 FermiDiffuse_23  1.457359e+00  4.230427e-02       
+  3 Isotropic_23  1.108333e+00  2.188396e-01       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 17/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=4.415995e+03 FROM MIGRAD  STATUS=VALID   17 CALLS
+EDM=5.823024e-08 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_23  -8.648444e-01  2.744444e-01       
+  2 FermiDiffuse_23  1.469531e+00  7.298084e-02  FIXED
+  3 Isotropic_23  1.080500e+00  2.182637e-01       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 17/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=4.415979e+03 FROM MIGRAD  STATUS=VALID   17 CALLS
+EDM=7.601170e-08 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_23  -8.054626e-02  2.832350e-01       
+  2 FermiDiffuse_23  1.323569e+00  7.298084e-02  FIXED
+  3 Isotropic_23  1.134157e+00  2.160360e-01       
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=4.415995e+03 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=1.263156e-07 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_23  -4.767272e-01  4.805197e-01       
+  2 FermiDiffuse_23  1.386534e+00  7.267153e-02       
+  3 Isotropic_23  1.327038e+00  2.188342e-01  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 0 sec Call: 14/1000 (0.0000 sec/call).
+Est. time to maxcall: 0.00 sec.
+FCN=4.415990e+03 FROM MIGRAD  STATUS=VALID   14 CALLS
+EDM=2.429892e-08 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0        PSC  1.000000e+00  0.000000e+00  FIXED
+  1      DM_23  -4.709181e-01  4.800985e-01       
+  2 FermiDiffuse_23  1.404619e+00  7.240579e-02       
+  3 Isotropic_23  8.893700e-01  2.188342e-01  FIXED
+--------------------------------------
+[I 13:31:37.691 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:33:37.709 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:33:47.633 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:33:55.001 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:34:35.194 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:35:37.705 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:36:49.105 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:37:37.737 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:39:37.754 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:40:18.062 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:40:21.733 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:41:37.758 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:43:37.776 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:44:40.943 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:45:01.578 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:45:22.654 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:45:37.777 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:46:00.484 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:46:37.878 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:46:51.257 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:47:38.174 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:48:04.713 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:48:51.399 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:49:10.464 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:49:37.774 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:49:42.322 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:51:37.788 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:53:38.054 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:55:17.660 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 13:57:09.215 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb

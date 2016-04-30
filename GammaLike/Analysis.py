@@ -469,7 +469,7 @@ class Analysis():
         master_t = master_t.clip(1e-5, 1e50)
         # Convert to sparse matrix for memory profile.
         t_sparse = csr_matrix(master_t, dtype=np.float32)
-        self.AddTemplate(hdu[5].data['Source_Name'][ext_idx][0].replace(' ', '').replace('-', 'n').replace('+', 'p').replace('.', '_'), t_sparse, fixSpectrum=fixed, fixNorm=fixed,
+        self.AddTemplate(ext_name.strip().replace(' ', '').replace('-', 'n').replace('+', 'p').replace('.', '_'), t_sparse, fixSpectrum=fixed, fixNorm=fixed,
                          limits=[None, None], value=1., ApplyIRF=False, sourceClass='FGL')
         return t_sparse
 
@@ -759,6 +759,8 @@ class Analysis():
         :param diffuse_path: path to the diffuse model.
         :param infile: Save the template to this path (reduce initial load time)
         :param outfile: Save the template to this path (reduce initial load time) if infile is None
+        :param multiplier: Increase the PSF spread by this amount. 
+        :param fixSpectrum: if False Allow the diffuse model to float in each energy bin 
 
         :return: None
         """
