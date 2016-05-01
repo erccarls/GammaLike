@@ -28,14 +28,6 @@ GammaLike.GammaLikelihood module
     :undoc-members:
     :show-inheritance:
 
-GammaLike.GenDiffuseModel module
---------------------------------
-
-.. automodule:: GammaLike.GenDiffuseModel
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
 GammaLike.GenFermiData module
 -----------------------------
 
@@ -48,14 +40,6 @@ GammaLike.GlobalFitter module
 -----------------------------
 
 .. automodule:: GammaLike.GlobalFitter
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-GammaLike.RunGalprop module
----------------------------
-
-.. automodule:: GammaLike.RunGalprop
     :members:
     :undoc-members:
     :show-inheritance:

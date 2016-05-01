@@ -343,9 +343,10 @@ class Analysis():
     def AddFGLSource(self, idx, fixed=False):
         '''
         Add a single point source to the fit at index idx of the active PSC catalog (defined at Analysis.fglpath).
+        
         :param idx: index of the point source to add.
         :param fix: Fix the normalization and spectrum of this source if True.
-        :return:
+        :return: None
         '''
         # Generate point source template and convert to sparse matrix for lower memory profile
         try:
@@ -509,11 +510,10 @@ class Analysis():
     def GenPointSourceTemplate(self, pscmap=None, onlyidx=None, save=False, verbosity=1, ignore_ext=True,
                                 l_range=(-180, 180), b_range=(-90, 90)):
         """
-        Generates a point source count map valid for the current analysis based on 2fgl catalog.  This can take a long
-        time so it is usually done once and then saved.
+        Generates a point source count map valid for the current analysis based on 2fgl catalog.  
+        This can take a long time so it is usually done once and then saved.
 
-        :param pscmap: Specify the point source map filename.  If None, then the default path
-            self.basemap+'PSC_'+self.tag+'.npy' is used.
+        :param pscmap: Specify the point source map filename.  If None, then the default path will be used.
         :param onlyidx: Generate template for only a single point source in the fglpath catalog at this index.
         :return PSCMap:  The healpix 'cube' for the point sources.
         """
@@ -752,10 +752,9 @@ class Analysis():
 
 
     def AddFermiDiffuseModel(self, diffuse_path, infile=None, outfile=None, multiplier=1., fixSpectrum=False):
-        """
-        Adds a fermi diffuse model to the template.  Input map is a fits file containing a cartesian mapcube.
+        """Adds a fermi diffuse model to the template.  Input map is a fits file containing a cartesian mapcube.
         This gets resampled into a healpix cube, integrated over energy,
-         applies PSF & effective exposure, and gets added to the templateList.
+        applies PSF & effective exposure, and gets added to the templateList.
         :param diffuse_path: path to the diffuse model.
         :param infile: Save the template to this path (reduce initial load time)
         :param outfile: Save the template to this path (reduce initial load time) if infile is None
@@ -1281,7 +1280,7 @@ class Analysis():
     def SaveSpectra(self, fname=None):
         """
         Save the spectrum to a pickled dictionary.  For each key there are 3 components: Energy, Flux, FluxUnc
-        :param fname: Filename for the saved file.  Defaults to './spec_'+ tag +'.pickle'
+        :param fname: Filename for the saved file.  Defaults name in code. 
         :return: None
         """
         """

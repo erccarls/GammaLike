@@ -8,11 +8,11 @@ def GenDataScipt(tag, basepath, bin_edges, scriptname, phfile, scfile, evclass=3
     Given a set of input params, this calls the fermi tools to generate the necessary files for
     diffuse likelihood analysis.
     params:
-        tag: Add this suffix to each file name.
-        basepath: Base directory for relative paths and file storage.
-        ebins: a list of energy bin edges to use. Energies in MeV
-        scriptname: The output script will be written to the basepath with this name.
-        ** The remaining parameters are all described in the various Fermi Tools documents.
+    tag: Add this suffix to each file name.
+    basepath: Base directory for relative paths and file storage.
+    ebins: a list of energy bin edges to use. Energies in MeV
+    scriptname: The output script will be written to the basepath with this name.
+    ** The remaining parameters are all described in the various Fermi Tools documents.
 
     returns:
         runstring
