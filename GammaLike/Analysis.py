@@ -38,7 +38,8 @@ def Load(filename):
 
     # Any other settings we may have missed. 
     for key, value in s.items():
-        A.__dict__[key] = value
+        if key not in ['n_bins', 'bin_edges', ]:
+            A.__dict__[key] = value
     
     return A 
 
@@ -152,7 +153,7 @@ class Analysis():
 
         filename = self.basepath+'/' + self.tag +'.GLanalysis'
         settings_dict = copy.deepcopy(self.__dict__)
-    
+        settings_dict['n_bins'] -= len(settings_dict['prefix_bins'])-1
         for key in forbidden_keys:
             settings_dict.pop(key)
 
@@ -577,8 +578,9 @@ class Analysis():
         # Error Checking on shape of input cube.
         if (healpixCube.shape[0] != (len(self.bin_edges)-1)) or (healpixCube.shape[1] != (12*self.nside**2)):
             raise(Exception("Shape of template does not match binning"))
-
+        
         healpixCube2 = copy.copy(healpixCube)
+
         if ApplyIRF:
             for i_E in range(len(self.bin_edges)-1):
                 if sourceClass == 'ISO':

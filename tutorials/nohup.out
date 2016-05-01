@@ -2224,3 +2224,72 @@ NO.       NAME         VALUE         ERROR  FIXED
 [W 02:28:39.443 NotebookApp] WebSocket ping timeout after 119987 ms.
 [W 02:28:40.906 NotebookApp] WebSocket ping timeout after 119985 ms.
 [W 02:28:49.810 NotebookApp] WebSocket ping timeout after 119985 ms.
+[I 14:00:37.184 NotebookApp] Saving file at /Fitting Galprop Models.ipynb
+[I 14:00:38.782 NotebookApp] Kernel restarted: a6f656dc-616d-4b43-a8d9-334d948c9a90
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 14:01:22.571 NotebookApp] Kernel restarted: 9e2fc170-d552-4648-aed1-61338eaae81f
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 14:01:26.095 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 14:02:37.733 NotebookApp] Saving file at /Fitting Galprop Models.ipynb
+[I 14:03:26.103 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 14:06:15.336 NotebookApp] Kernel restarted: 9e2fc170-d552-4648-aed1-61338eaae81f
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 14:07:26.069 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 14:07:28.758 NotebookApp] Saving file at /Starting a New Analysis.ipynb
+[I 14:08:37.088 NotebookApp] Saving file at /Fitting Galprop Models.ipynb
+[I 14:09:26.255 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 14:09:32.016 NotebookApp] Kernel restarted: a6f656dc-616d-4b43-a8d9-334d948c9a90
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 14:10:37.084 NotebookApp] Saving file at /Fitting Galprop Models.ipynb
+[I 14:13:57.445 NotebookApp] Kernel restarted: a6f656dc-616d-4b43-a8d9-334d948c9a90
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 14:14:37.091 NotebookApp] Saving file at /Fitting Galprop Models.ipynb
+[I 14:15:28.747 NotebookApp] Saving file at /Starting a New Analysis.ipynb
+[I 14:16:23.427 NotebookApp] Kernel restarted: a6f656dc-616d-4b43-a8d9-334d948c9a90
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 14:17:28.744 NotebookApp] Saving file at /Starting a New Analysis.ipynb
+[I 14:18:37.089 NotebookApp] Saving file at /Fitting Galprop Models.ipynb
+[I 14:18:53.010 NotebookApp] Kernel restarted: a6f656dc-616d-4b43-a8d9-334d948c9a90
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 14:19:11.270 NotebookApp] Kernel restarted: a6f656dc-616d-4b43-a8d9-334d948c9a90
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 14:19:24.096 NotebookApp] Kernel restarted: a6f656dc-616d-4b43-a8d9-334d948c9a90
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 14:19:28.639 NotebookApp] Saving file at /Starting a New Analysis.ipynb
+[I 14:19:53.233 NotebookApp] Kernel restarted: a6f656dc-616d-4b43-a8d9-334d948c9a90
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 14:20:37.084 NotebookApp] Saving file at /Fitting Galprop Models.ipynb
+[I 14:21:28.749 NotebookApp] Saving file at /Starting a New Analysis.ipynb
+[I 14:22:37.098 NotebookApp] Saving file at /Fitting Galprop Models.ipynb
+[I 14:22:48.795 NotebookApp] Kernel restarted: a6f656dc-616d-4b43-a8d9-334d948c9a90
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 14:23:37.088 NotebookApp] Kernel restarted: a6f656dc-616d-4b43-a8d9-334d948c9a90
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 14:24:37.084 NotebookApp] Saving file at /Fitting Galprop Models.ipynb
+[I 14:24:40.907 NotebookApp] Kernel restarted: a6f656dc-616d-4b43-a8d9-334d948c9a90
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 14:25:28.740 NotebookApp] Saving file at /Starting a New Analysis.ipynb
+[I 14:25:34.810 NotebookApp] Kernel restarted: a6f656dc-616d-4b43-a8d9-334d948c9a90
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 14:26:37.090 NotebookApp] Saving file at /Fitting Galprop Models.ipynb
+[I 14:27:04.565 NotebookApp] Kernel restarted: a6f656dc-616d-4b43-a8d9-334d948c9a90
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 14:27:28.227 NotebookApp] Saving file at /Starting a New Analysis.ipynb
+[I 14:27:46.480 NotebookApp] Saving file at /Starting a New Analysis.ipynb
+[I 14:28:37.741 NotebookApp] Saving file at /Fitting Galprop Models.ipynb
+[I 14:29:28.216 NotebookApp] Saving file at /Starting a New Analysis.ipynb

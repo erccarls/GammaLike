@@ -9,10 +9,10 @@ Welcome to GammaLike's documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 3
 
    GammaLike
-   setup
+   setup 
 
 
 Indices and tables
