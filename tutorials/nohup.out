@@ -2220,3 +2220,7 @@ NO.       NAME         VALUE         ERROR  FIXED
 [I 14:11:25.002 NotebookApp] Saving file at /Fitting Galprop Models.ipynb
 [I 14:12:16.711 NotebookApp] Saving file at /Fitting Galprop Models.ipynb
 [I 14:24:49.833 NotebookApp] Saving file at /Fitting Galprop Models.ipynb
+[W 02:28:37.645 NotebookApp] WebSocket ping timeout after 119986 ms.
+[W 02:28:39.443 NotebookApp] WebSocket ping timeout after 119987 ms.
+[W 02:28:40.906 NotebookApp] WebSocket ping timeout after 119985 ms.
+[W 02:28:49.810 NotebookApp] WebSocket ping timeout after 119985 ms.
