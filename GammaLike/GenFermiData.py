@@ -76,8 +76,8 @@ def GenDataScipt(tag, basepath, bin_edges, scriptname, phfile, scfile, evclass=3
     gtpsf expcube="cube_'''+str(tag)+'''.fits"\\
         outfile=gtpsf_'''+str(tag)+'''.fits\\
         irfs='''+str(irf).split('::')[0]+'''\\
-        emin=20 emax=1e6 nenergies=50 clobber=True\\
-        ra=0 dec=0 thetamax=10 ntheta=200 evtype='''+str(evtype)+'''
+        emin=20 emax=1e6 nenergies=250 clobber=True\\
+        ra=0 dec=0 thetamax=20 ntheta=300 evtype='''+str(evtype)+'''
 
     echo "running gtbin"
     gtbin evfile=photons_merged_cut_'''+str(tag)+'''.fits \\
