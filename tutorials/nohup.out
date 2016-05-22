@@ -6176,3 +6176,8 @@ NO.       NAME         VALUE         ERROR  FIXED
 [I 18:07:29.100 NotebookApp] Saving file at /Fitting Galprop Models.ipynb
 [I 18:08:04.597 NotebookApp] Saving file at /Fitting Galprop Models.ipynb
 [I 18:08:05.999 NotebookApp] Saving file at /Fitting Galprop Models.ipynb
+[I 18:14:12.549 NotebookApp] Creating new notebook in 
+[I 18:14:13.833 NotebookApp] Kernel started: 5cf32e7b-5715-470e-9ab3-c0f6d1a72bb2
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 18:16:14.838 NotebookApp] Saving file at /Inner Galaxy Analyses.ipynb
