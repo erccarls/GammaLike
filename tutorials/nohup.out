@@ -6091,3 +6091,88 @@ NO.       NAME         VALUE         ERROR  FIXED
 [I 17:31:30.962 NotebookApp] Kernel restarted: c47d5d45-da79-452a-85fa-3576b528c24a
 /home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
   "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 17:32:28.563 NotebookApp] Saving file at /Fitting Galprop Models.ipynb
+======================================
+[I 17:36:31.639 NotebookApp] Saving file at /Fitting Galprop Models.ipynb
+Elapsed Time: 130 sec Call: 109/10000 (1.1927 sec/call).
+Est. time to maxcall: 11796.61 sec.
+FCN=-5.077618e+05 FROM MIGRAD  STATUS=VALID   109 CALLS
+EDM=9.600125e-03 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0   pi0HIHII  7.209173e-01  6.549522e-04       
+  1        PSC  1.000000e+00  1.000000e-01  FIXED
+  2   pi0_H2_1  1.000000e+00  1.000000e-01  FIXED
+  3        ics  4.251261e-01  9.319030e-04       
+  4   pi0_H2_3  1.000000e+00  1.000000e-01  FIXED
+  5   pi0_H2_2  1.000000e+00  1.000000e-01  FIXED
+  6   pi0_H2_5  1.000000e+00  1.000000e-01  FIXED
+  7  Isotropic  1.683269e+00  2.393598e-03       
+  8   pi0_H2_7  4.646647e-01  1.427283e-03       
+  9   pi0_H2_6  1.000000e+00  1.000000e-01  FIXED
+ 10   pi0_H2_9  1.000000e+00  1.000000e-01  FIXED
+ 11   pi0_H2_8  1.000000e+00  1.000000e-01  FIXED
+ 12    Bubbles  1.672120e+00  6.473320e-03       
+ 13   pi0_H2_4  1.000000e+00  1.000000e-01  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 8 sec Call: 120/10000 (0.0667 sec/call).
+Est. time to maxcall: 658.67 sec.
+FCN=-1.070956e+07 FROM MIGRAD  STATUS=VALID   120 CALLS
+EDM=3.519695e-03 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0   pi0HIHII  8.412198e-01  1.078995e-03       
+  1        PSC  1.000000e+00  1.000000e-01  FIXED
+  2   pi0_H2_1  1.000000e+00  1.000000e-01  FIXED
+  3        ics  6.231192e-01  3.332756e-03       
+  4   pi0_H2_3  1.000000e+00  1.000000e-01  FIXED
+  5   pi0_H2_2  1.000000e+00  1.000000e-01  FIXED
+  6   pi0_H2_5  1.000000e+00  1.000000e-01  FIXED
+  7  Isotropic  1.683269e+00  1.000000e-01  FIXED
+  8   pi0_H2_7  4.646647e-01  1.000000e-01  FIXED
+  9   pi0_H2_6  1.000000e+00  1.000000e-01  FIXED
+ 10   pi0_H2_9  4.149037e+01  9.072699e-01       
+ 11   pi0_H2_8  7.056303e-01  6.362024e-03       
+ 12    Bubbles  1.672120e+00  1.000000e-01  FIXED
+ 13   pi0_H2_4  1.000000e+00  1.000000e-01  FIXED
+--------------------------------------
+======================================
+Elapsed Time: 22 sec Call: 341/10000 (0.0645 sec/call).
+Est. time to maxcall: 623.16 sec.
+FCN=-2.611004e+07 FROM MIGRAD  STATUS=VALID   341 CALLS
+EDM=6.364939e-02 ERROR MATRIX ACCURATE POSDEF
+NO.       NAME         VALUE         ERROR  FIXED
+  0   pi0HIHII  6.314298e-01  1.039674e-03       
+  1        PSC  1.000000e+00  1.000000e-01  FIXED
+  2   pi0_H2_1  1.360426e+00  1.406408e-02       
+  3        ics  7.300975e-01  1.579455e-03       
+  4   pi0_H2_3  2.600107e+00  2.880365e-02       
+  5   pi0_H2_2  2.947190e+00  5.558209e-02       
+  6   pi0_H2_5  1.781694e+00  6.779166e-03       
+  7  Isotropic  1.683269e+00  1.000000e-01  FIXED
+  8   pi0_H2_7  4.646647e-01  1.000000e-01  FIXED
+  9   pi0_H2_6  9.847280e-01  4.512229e-03       
+ 10   pi0_H2_9  4.149037e+01  1.000000e-01  FIXED
+ 11   pi0_H2_8  7.056303e-01  1.000000e-01  FIXED
+ 12    Bubbles  1.672120e+00  1.000000e-01  FIXED
+ 13   pi0_H2_4  2.238424e+00  1.251989e-02       
+--------------------------------------
+[I 17:38:31.657 NotebookApp] Saving file at /Fitting Galprop Models.ipynb
+[I 17:44:31.806 NotebookApp] Saving file at /Fitting Galprop Models.ipynb
+[I 17:50:31.978 NotebookApp] Saving file at /Fitting Galprop Models.ipynb
+[I 17:52:31.699 NotebookApp] Saving file at /Fitting Galprop Models.ipynb
+[I 17:53:01.095 NotebookApp] Saving file at /Fitting Galprop Models.ipynb
+[I 17:54:31.681 NotebookApp] Saving file at /Fitting Galprop Models.ipynb
+[I 17:56:31.679 NotebookApp] Saving file at /Fitting Galprop Models.ipynb
+[I 17:58:32.253 NotebookApp] Saving file at /Fitting Galprop Models.ipynb
+[I 17:58:37.873 NotebookApp] Saving file at /Fitting Galprop Models.ipynb
+[I 17:58:58.082 NotebookApp] Saving file at /Fitting Galprop Models.ipynb
+[I 17:59:29.258 NotebookApp] Saving file at /Fitting Galprop Models.ipynb
+[I 18:00:32.227 NotebookApp] Saving file at /Fitting Galprop Models.ipynb
+[I 18:01:08.319 NotebookApp] Saving file at /Fitting Galprop Models.ipynb
+[I 18:02:32.235 NotebookApp] Saving file at /Fitting Galprop Models.ipynb
+[I 18:04:32.250 NotebookApp] Saving file at /Fitting Galprop Models.ipynb
+[I 18:05:43.423 NotebookApp] Saving file at /Fitting Galprop Models.ipynb
+[I 18:06:32.252 NotebookApp] Saving file at /Fitting Galprop Models.ipynb
+[I 18:07:29.100 NotebookApp] Saving file at /Fitting Galprop Models.ipynb
+[I 18:08:04.597 NotebookApp] Saving file at /Fitting Galprop Models.ipynb
+[I 18:08:05.999 NotebookApp] Saving file at /Fitting Galprop Models.ipynb

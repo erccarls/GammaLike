@@ -386,7 +386,7 @@ def InterpolateHealpix(healpixcube, energies,  E_min, E_max, E_bins=3, nside_out
     :returns: Spectral subsampling of the input cartesian data cube with units in (s cm^2)^-1
     """
 
-    nside = np.sqrt(healpixcube.shape[1]/12)  # Get nside based on shape
+    nside = int(np.sqrt(healpixcube.shape[1]/12))  # Get nside based on shape
 
     # Define the grid spacings
     energies = np.log10(energies)
