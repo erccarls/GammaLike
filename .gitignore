@@ -89,7 +89,4 @@ ENV/
 .ropeproject
 
 
-.npy
-.fits
-.pickle
-.testing
+testing/
