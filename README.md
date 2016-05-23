@@ -54,7 +54,7 @@ The f_H2=0.2 'Canonical' emission model with no wind:
 	https://www.dropbox.com/s/uee55f64klsmfjj/mod_s_46_XCO_P8_corrected.hdf5?dl=0
 
 The best fitting f_H2=0.25 model with a 600 km/s radial wind at the Galactic center:
-	
+	https://www.dropbox.com/s/w1oykrkqp6hdhr8/mod_v4_30_XCO_P8_corrected.hdf5?dl=0	
 
 
 These files are stored in HDF5 format with the templates for each Galactic diffuse component stored at the path '/templates/'.  Further usage instructions can be found toward the bottom of the 'Fitting a Galprop Model.ipynb' tutorials.
