@@ -6181,3 +6181,46 @@ NO.       NAME         VALUE         ERROR  FIXED
 /home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
   "You should import from ipykernel or jupyter_client instead.", ShimWarning)
 [I 18:16:14.838 NotebookApp] Saving file at /Inner Galaxy Analyses.ipynb
+[W 18:34:21.840 NotebookApp] Notebook Fitting to Fermi Data.ipynb is not trusted
+[I 18:34:28.297 NotebookApp] Kernel restarted: 47648b38-8025-41df-a251-b1083c31e9fd
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 18:34:51.162 NotebookApp] Kernel started: 552c9173-abe0-427e-8684-37ae1810375d
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 18:34:53.796 NotebookApp] Kernel restarted: 552c9173-abe0-427e-8684-37ae1810375d
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 18:36:22.869 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 18:36:51.197 NotebookApp] Saving file at /Starting a New Analysis.ipynb
+[I 21:08:51.417 NotebookApp] Saving file at /Starting a New Analysis.ipynb
+[I 21:32:51.353 NotebookApp] Saving file at /Starting a New Analysis.ipynb
+[W 00:05:18.263 NotebookApp] WebSocket ping timeout after 119986 ms.
+[W 00:05:29.255 NotebookApp] WebSocket ping timeout after 119985 ms.
+[W 00:56:54.138 NotebookApp] WebSocket ping timeout after 119986 ms.
+[W 00:56:54.613 NotebookApp] WebSocket ping timeout after 119986 ms.
+[W 00:57:15.203 NotebookApp] WebSocket ping timeout after 119986 ms.
+[W 01:51:37.057 NotebookApp] WebSocket ping timeout after 119986 ms.
+[W 01:51:46.128 NotebookApp] WebSocket ping timeout after 119985 ms.
+[W 01:51:46.248 NotebookApp] WebSocket ping timeout after 119985 ms.
+[W 13:21:18.611 NotebookApp] SSL Error on 63 ('185.56.82.82', 56853): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 13:21:19.249 NotebookApp] 302 GET / (185.56.82.82) 3.31ms
+[I 13:21:19.867 NotebookApp] 302 GET /tree (185.56.82.82) 11.96ms
+[I 14:40:33.327 NotebookApp] Saving file at /Starting a New Analysis.ipynb
+[I 14:40:40.066 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 14:41:00.934 NotebookApp] Kernel restarted: 47648b38-8025-41df-a251-b1083c31e9fd
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 14:42:40.036 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 14:44:40.933 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[I 14:46:40.930 NotebookApp] Saving file at /Fitting to Fermi Data.ipynb
+[W 23:45:02.263 NotebookApp] WebSocket ping timeout after 119986 ms.
+[I 12:33:31.454 NotebookApp] 302 GET / (24.6.90.144) 0.64ms
+[I 12:33:46.672 NotebookApp] Kernel shutdown: 2c07fe5f-8188-4a74-a5da-e83d63035111
+[W 12:33:46.677 NotebookApp] delete /A Global Analysis.ipynb
+[W 12:33:56.229 NotebookApp] Notebook Fitting Galprop Models.ipynb is not trusted
+[I 12:35:57.766 NotebookApp] Saving file at /Fitting Galprop Models.ipynb
+[W 12:35:57.767 NotebookApp] Saving untrusted notebook Fitting Galprop Models.ipynb
+[I 12:41:58.237 NotebookApp] Saving file at /Fitting Galprop Models.ipynb
+[W 12:41:58.238 NotebookApp] Saving untrusted notebook Fitting Galprop Models.ipynb
+[I 12:43:44.135 NotebookApp] 302 GET / (24.6.90.144) 0.66ms
