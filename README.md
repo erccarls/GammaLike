@@ -4,7 +4,7 @@ The GammaLike package is devoted to easing multi-linear template regression on g
 
 The focus of this software is twofold.  First, efficiency.  The fermi science tools are prohibitively slow when working with large regions of interest.  GammaLike can perform full-sky likelihood fits to fermi data in only a few minutes at .25 degree resolution.  Second, is ease of use.  After supplying flux maps, GammaLike automatically performs convoutions against instrumental response functions and supports arbitrary binning, masking, and pixel weighting schemes.  Written in pure python, it is also easy to add new functionality.
 
-Package documentation is available at xxxxxxxxxxxxxxxx
+Package documentation is available at http://planck.ucsc.edu/gammalike/html/
 
 
 Features include:
@@ -30,7 +30,7 @@ If you don't mind, cite us too:
   http://arxiv.org/abs/1510.04698
   http://arxiv.org/abs/1603.06584
 
-# Model Files and Gas Maps
+# New Galprop Gas Maps
 To use our modified Galprop code you will need several additional files to be placed in the $galprop_home/FITS folder:  
 
 The 3D gas maps for use in the Galprop code above can be found at:
@@ -45,14 +45,24 @@ although one will want to modify this appropriately and remove the cluster submi
 
 
 # New Diffuse Emission Models
+The emission models from http://arxiv.org/abs/1603.06584 can be found at the following links:
 
-The f_H2=0.2 'Canonical' emission model with no wind can be found here: 
-https://www.dropbox.com/s/uee55f64klsmfjj/mod_s_46_XCO_P8_corrected.hdf5?dl=0
+Mod_A from Calore et al (but with the XCO profile fitted):
+	https://www.dropbox.com/s/r48vjnmijbxx6xh/Mod_A_2D_XCO_P8.hdf5?dl=0
 
-The best fitting f_H2=0.25 model with a 600 km/s radial wind at the Galactic center can be found here: 
+The f_H2=0.2 'Canonical' emission model with no wind: 
+	https://www.dropbox.com/s/uee55f64klsmfjj/mod_s_46_XCO_P8_corrected.hdf5?dl=0
+
+The best fitting f_H2=0.25 model with a 600 km/s radial wind at the Galactic center:
+	
 
 
-These files are stored in HDF5 format with the templates for each Galactic diffuse component stored at the path '/templates/'.  Further usage instructions can be found in the 'Fitting a Galprop Model.ipynb' tutorial.
+These files are stored in HDF5 format with the templates for each Galactic diffuse component stored at the path '/templates/'.  Further usage instructions can be found toward the bottom of the 'Fitting a Galprop Model.ipynb' tutorials.
+
+
+If you need these in cartesian format, take a look at the script here:
+	https://github.com/erccarls/GammaLike_dev/blob/master/Healpix2Mapcube_merged.py
+and modify as needed. 
 
 
 
